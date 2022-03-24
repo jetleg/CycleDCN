@@ -1,2 +1,2 @@
 # CycleDCN
-CycleDCN中用到的代码，包含C,OPL
+The codes used in cycledcn include C and OPL.
